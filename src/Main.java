@@ -11,7 +11,7 @@ public class Main {
         System.out.println(newBook2.getName() + " - " + newBook2.getУearsPublication() + " года публикации, автора - "+ eko1.getName() + " " + eko1.getSoname());
 
         newBook2.setYearsPublication(2009);
-        System.out.println("newBook2 = " + newBook2.getУearsPublication());
+        System.out.println("newBook2  " + newBook2.getУearsPublication());
     }
 }
 
